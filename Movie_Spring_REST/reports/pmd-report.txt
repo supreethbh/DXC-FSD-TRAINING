@@ -1,0 +1,136 @@
+src/main/java/com/dxc/spring/swagger/movie/MovieSpringBootRestApplication.java:9:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/dxc/spring/swagger/movie/MovieSpringBootRestApplication.java:9:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/dxc/spring/swagger/movie/MovieSpringBootRestApplication.java:9:	CommentRequired: Class comments are required
+src/main/java/com/dxc/spring/swagger/movie/MovieSpringBootRestApplication.java:9:	CommentRequired: Class comments are required
+src/main/java/com/dxc/spring/swagger/movie/MovieSpringBootRestApplication.java:11:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/spring/swagger/movie/MovieSpringBootRestApplication.java:11:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/spring/swagger/movie/MovieSpringBootRestApplication.java:11:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/dxc/spring/swagger/movie/MovieSpringBootRestApplication.java:11:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/dxc/spring/swagger/movie/MovieSpringBootRestApplication.java:16:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/spring/swagger/movie/MovieSpringBootRestApplication.java:16:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/spring/swagger/movie/ServletInitializer.java:6:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/dxc/spring/swagger/movie/ServletInitializer.java:6:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/dxc/spring/swagger/movie/ServletInitializer.java:6:	CommentRequired: Class comments are required
+src/main/java/com/dxc/spring/swagger/movie/ServletInitializer.java:6:	CommentRequired: Class comments are required
+src/main/java/com/dxc/spring/swagger/movie/ServletInitializer.java:9:	MethodArgumentCouldBeFinal: Parameter 'application' is not assigned and could be declared final
+src/main/java/com/dxc/spring/swagger/movie/ServletInitializer.java:9:	MethodArgumentCouldBeFinal: Parameter 'application' is not assigned and could be declared final
+src/main/java/com/dxc/spring/swagger/movie/configuration/MovieBookingSwaggerConfiguration.java:18:	CommentRequired: Class comments are required
+src/main/java/com/dxc/spring/swagger/movie/configuration/MovieBookingSwaggerConfiguration.java:18:	CommentRequired: Class comments are required
+src/main/java/com/dxc/spring/swagger/movie/configuration/MovieBookingSwaggerConfiguration.java:20:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/spring/swagger/movie/configuration/MovieBookingSwaggerConfiguration.java:20:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/spring/swagger/movie/configuration/MovieBookingSwaggerConfiguration.java:20:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/main/java/com/dxc/spring/swagger/movie/configuration/MovieBookingSwaggerConfiguration.java:20:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/main/java/com/dxc/spring/swagger/movie/configuration/MovieBookingSwaggerConfiguration.java:25:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/spring/swagger/movie/configuration/MovieBookingSwaggerConfiguration.java:25:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestController.java:22:	CommentRequired: Class comments are required
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestController.java:22:	CommentRequired: Class comments are required
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestController.java:25:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestController.java:25:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestController.java:25:	CommentRequired: Field comments are required
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestController.java:25:	CommentRequired: Field comments are required
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestController.java:25:	LongVariable: Avoid excessively long variable names like movieBookingService
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestController.java:25:	LongVariable: Avoid excessively long variable names like movieBookingService
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestController.java:27:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestController.java:27:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestController.java:27:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestController.java:27:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestController.java:34:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestController.java:34:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestController.java:34:	MethodArgumentCouldBeFinal: Parameter 'movieBooking' is not assigned and could be declared final
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestController.java:34:	MethodArgumentCouldBeFinal: Parameter 'movieBooking' is not assigned and could be declared final
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestController.java:42:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestController.java:42:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestController.java:42:	MethodArgumentCouldBeFinal: Parameter 'movieId' is not assigned and could be declared final
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestController.java:42:	MethodArgumentCouldBeFinal: Parameter 'movieId' is not assigned and could be declared final
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestController.java:51:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestController.java:51:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestTemplate.java:15:	CommentRequired: Class comments are required
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestTemplate.java:15:	CommentRequired: Class comments are required
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestTemplate.java:17:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestTemplate.java:17:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestTemplate.java:18:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestTemplate.java:18:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestTemplate.java:18:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the restTemplate field if you want a default access modifier
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestTemplate.java:18:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the restTemplate field if you want a default access modifier
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestTemplate.java:18:	CommentRequired: Field comments are required
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestTemplate.java:18:	CommentRequired: Field comments are required
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestTemplate.java:20:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestTemplate.java:20:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestTemplate.java:20:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestTemplate.java:20:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestTemplate.java:25:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestTemplate.java:25:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestTemplate.java:26:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestTemplate.java:26:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestTemplate.java:28:	LocalVariableCouldBeFinal: Local variable 'headers' could be declared final
+src/main/java/com/dxc/spring/swagger/movie/controller/MovieBookingRestTemplate.java:28:	LocalVariableCouldBeFinal: Local variable 'headers' could be declared final
+src/main/java/com/dxc/spring/swagger/movie/model/MovieBookingSystem.java:19:	DataClass: The class 'MovieBookingSystem' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=12, WMC=13)
+src/main/java/com/dxc/spring/swagger/movie/model/MovieBookingSystem.java:19:	DataClass: The class 'MovieBookingSystem' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=12, WMC=13)
+src/main/java/com/dxc/spring/swagger/movie/model/MovieBookingSystem.java:25:	CommentRequired: Field comments are required
+src/main/java/com/dxc/spring/swagger/movie/model/MovieBookingSystem.java:25:	CommentRequired: Field comments are required
+src/main/java/com/dxc/spring/swagger/movie/model/MovieBookingSystem.java:28:	CommentRequired: Field comments are required
+src/main/java/com/dxc/spring/swagger/movie/model/MovieBookingSystem.java:28:	CommentRequired: Field comments are required
+src/main/java/com/dxc/spring/swagger/movie/model/MovieBookingSystem.java:31:	CommentRequired: Field comments are required
+src/main/java/com/dxc/spring/swagger/movie/model/MovieBookingSystem.java:31:	CommentRequired: Field comments are required
+src/main/java/com/dxc/spring/swagger/movie/model/MovieBookingSystem.java:34:	CommentRequired: Field comments are required
+src/main/java/com/dxc/spring/swagger/movie/model/MovieBookingSystem.java:34:	CommentRequired: Field comments are required
+src/main/java/com/dxc/spring/swagger/movie/model/MovieBookingSystem.java:37:	CommentRequired: Field comments are required
+src/main/java/com/dxc/spring/swagger/movie/model/MovieBookingSystem.java:37:	CommentRequired: Field comments are required
+src/main/java/com/dxc/spring/swagger/movie/model/MovieBookingSystem.java:40:	CommentRequired: Field comments are required
+src/main/java/com/dxc/spring/swagger/movie/model/MovieBookingSystem.java:40:	CommentRequired: Field comments are required
+src/main/java/com/dxc/spring/swagger/movie/model/MovieBookingSystem.java:42:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/spring/swagger/movie/model/MovieBookingSystem.java:42:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/spring/swagger/movie/model/MovieBookingSystem.java:42:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/main/java/com/dxc/spring/swagger/movie/model/MovieBookingSystem.java:42:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/main/java/com/dxc/spring/swagger/movie/model/MovieBookingSystem.java:50:	MethodArgumentCouldBeFinal: Parameter 'movieId' is not assigned and could be declared final
+src/main/java/com/dxc/spring/swagger/movie/model/MovieBookingSystem.java:50:	MethodArgumentCouldBeFinal: Parameter 'movieId' is not assigned and could be declared final
+src/main/java/com/dxc/spring/swagger/movie/model/MovieBookingSystem.java:58:	MethodArgumentCouldBeFinal: Parameter 'movieName' is not assigned and could be declared final
+src/main/java/com/dxc/spring/swagger/movie/model/MovieBookingSystem.java:58:	MethodArgumentCouldBeFinal: Parameter 'movieName' is not assigned and could be declared final
+src/main/java/com/dxc/spring/swagger/movie/model/MovieBookingSystem.java:66:	MethodArgumentCouldBeFinal: Parameter 'movieRating' is not assigned and could be declared final
+src/main/java/com/dxc/spring/swagger/movie/model/MovieBookingSystem.java:66:	MethodArgumentCouldBeFinal: Parameter 'movieRating' is not assigned and could be declared final
+src/main/java/com/dxc/spring/swagger/movie/model/MovieBookingSystem.java:74:	MethodArgumentCouldBeFinal: Parameter 'movieDuration' is not assigned and could be declared final
+src/main/java/com/dxc/spring/swagger/movie/model/MovieBookingSystem.java:74:	MethodArgumentCouldBeFinal: Parameter 'movieDuration' is not assigned and could be declared final
+src/main/java/com/dxc/spring/swagger/movie/model/MovieBookingSystem.java:82:	MethodArgumentCouldBeFinal: Parameter 'movieCategory' is not assigned and could be declared final
+src/main/java/com/dxc/spring/swagger/movie/model/MovieBookingSystem.java:82:	MethodArgumentCouldBeFinal: Parameter 'movieCategory' is not assigned and could be declared final
+src/main/java/com/dxc/spring/swagger/movie/model/MovieBookingSystem.java:90:	MethodArgumentCouldBeFinal: Parameter 'movieRecommend' is not assigned and could be declared final
+src/main/java/com/dxc/spring/swagger/movie/model/MovieBookingSystem.java:90:	MethodArgumentCouldBeFinal: Parameter 'movieRecommend' is not assigned and could be declared final
+src/main/java/com/dxc/spring/swagger/movie/repository/IMovieBookingRepository.java:11:	CommentRequired: Class comments are required
+src/main/java/com/dxc/spring/swagger/movie/repository/IMovieBookingRepository.java:11:	CommentRequired: Class comments are required
+src/main/java/com/dxc/spring/swagger/movie/service/IMovieBookingService.java:7:	CommentRequired: Class comments are required
+src/main/java/com/dxc/spring/swagger/movie/service/IMovieBookingService.java:7:	CommentRequired: Class comments are required
+src/main/java/com/dxc/spring/swagger/movie/service/IMovieBookingService.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/spring/swagger/movie/service/IMovieBookingService.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/spring/swagger/movie/service/IMovieBookingService.java:11:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/spring/swagger/movie/service/IMovieBookingService.java:11:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/spring/swagger/movie/service/IMovieBookingService.java:13:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/spring/swagger/movie/service/IMovieBookingService.java:13:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/spring/swagger/movie/service/MovieBookingService.java:12:	CommentRequired: Class comments are required
+src/main/java/com/dxc/spring/swagger/movie/service/MovieBookingService.java:12:	CommentRequired: Class comments are required
+src/main/java/com/dxc/spring/swagger/movie/service/MovieBookingService.java:14:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/dxc/spring/swagger/movie/service/MovieBookingService.java:14:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/dxc/spring/swagger/movie/service/MovieBookingService.java:15:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/dxc/spring/swagger/movie/service/MovieBookingService.java:15:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/dxc/spring/swagger/movie/service/MovieBookingService.java:15:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the movieBookingRepository field if you want a default access modifier
+src/main/java/com/dxc/spring/swagger/movie/service/MovieBookingService.java:15:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the movieBookingRepository field if you want a default access modifier
+src/main/java/com/dxc/spring/swagger/movie/service/MovieBookingService.java:15:	CommentRequired: Field comments are required
+src/main/java/com/dxc/spring/swagger/movie/service/MovieBookingService.java:15:	CommentRequired: Field comments are required
+src/main/java/com/dxc/spring/swagger/movie/service/MovieBookingService.java:15:	LongVariable: Avoid excessively long variable names like movieBookingRepository
+src/main/java/com/dxc/spring/swagger/movie/service/MovieBookingService.java:15:	LongVariable: Avoid excessively long variable names like movieBookingRepository
+src/main/java/com/dxc/spring/swagger/movie/service/MovieBookingService.java:17:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/spring/swagger/movie/service/MovieBookingService.java:17:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dxc/spring/swagger/movie/service/MovieBookingService.java:17:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/main/java/com/dxc/spring/swagger/movie/service/MovieBookingService.java:17:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/main/java/com/dxc/spring/swagger/movie/service/MovieBookingService.java:22:	MethodArgumentCouldBeFinal: Parameter 'movieBooking' is not assigned and could be declared final
+src/main/java/com/dxc/spring/swagger/movie/service/MovieBookingService.java:22:	MethodArgumentCouldBeFinal: Parameter 'movieBooking' is not assigned and could be declared final
+src/main/java/com/dxc/spring/swagger/movie/service/MovieBookingService.java:28:	MethodArgumentCouldBeFinal: Parameter 'movieId' is not assigned and could be declared final
+src/main/java/com/dxc/spring/swagger/movie/service/MovieBookingService.java:28:	MethodArgumentCouldBeFinal: Parameter 'movieId' is not assigned and could be declared final
+src/test/java/com/dxc/spring/movie/MovieSpringBootRestApplicationTests.java:7:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/dxc/spring/movie/MovieSpringBootRestApplicationTests.java:7:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/dxc/spring/movie/MovieSpringBootRestApplicationTests.java:7:	CommentRequired: Class comments are required
+src/test/java/com/dxc/spring/movie/MovieSpringBootRestApplicationTests.java:7:	CommentRequired: Class comments are required
+src/test/java/com/dxc/spring/movie/MovieSpringBootRestApplicationTests.java:10:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the contextLoads method if you want a default access modifier
+src/test/java/com/dxc/spring/movie/MovieSpringBootRestApplicationTests.java:10:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the contextLoads method if you want a default access modifier
+src/test/java/com/dxc/spring/movie/MovieSpringBootRestApplicationTests.java:10:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/dxc/spring/movie/MovieSpringBootRestApplicationTests.java:10:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/dxc/spring/movie/MovieSpringBootRestApplicationTests.java:10:	UncommentedEmptyMethodBody: Document empty method body
+src/test/java/com/dxc/spring/movie/MovieSpringBootRestApplicationTests.java:10:	UncommentedEmptyMethodBody: Document empty method body
